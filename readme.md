@@ -7,5 +7,8 @@ The B30 extrusions use a M5 size quick connect part, thus all parts mounted on t
 
 All parts were designed in Fusion 360, message us if you need access to the source files.
 
+`3mf` Files contain all printing parameters prepared for 3D-printing.
+We use a Bambu Lab X1-Carbon printer to print parts for our layout.
+
 > Warning: Some of the parts in this repository enclose or handle 230V mains voltage.
 > You MUST get your electrical work checked by a professional before use, including the parts.
