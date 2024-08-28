@@ -8,3 +8,5 @@ Required non-printed parts:
 - 2x [M5 sprung slot nut](https://www.motedis.com/de/Nutenstein-mit-Feder-B-Typ-Nut-8-M5)
 
 Alternatively to the sprung slot nut, two [M5 slot nut](https://www.motedis.com/de/Hammermutter-B-Typ-Nut-8-M5) can be used too.
+
+Add two [DIN 125A M5 washer](https://www.sfs.ch/de/Lieferantenkataloge/ISCAR/Werkzeugspanner/Werkzeugspanner-%28Sonstige%29/Zubehör-Werkzeugspanner-%28Sonstige%2C-nicht-spezifiziert%29/FLAT-WASHER-M5-DIN125A-SS-Unterlegscheibe/p/2086302) below each bolt to use a 16mm screw instead of a 14mm screw.

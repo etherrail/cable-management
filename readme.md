@@ -4,7 +4,7 @@ We use 30x30 B-Type aluminium extrusions to support the whole layout ([European 
 The parts fit the extrusion and are extensively used on our layout.
 
 The B30 extrusions use a M5 size quick connect part, thus all parts mounted on the extrusion will use M5 threads.
-We try to use standard DIN 912 M5 bolts everywhere.
+We try to use standard DIN 912 M5 bolts and DIN 125A washers everywhere.
 
 All parts were designed in Fusion 360, message us if you need access to the source files.
 
