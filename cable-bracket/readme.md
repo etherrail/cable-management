@@ -1,7 +1,8 @@
 # Cable Bracket
 These cable brackets can be used to hold cables along a B-Type 30x30 extrusion.
 
-There is a [single chamber](single.stl) and [two separated cambers](double.stl) model.
+For horizontal installation, there is a [single chamber](horizontal/single.stl) and [two separated cambers](horizontal/double.stl) model.
+To organize cables vertically, there is a [single chamber](vertical/single.stl) model.
 
 Example usage of the separated chambers variant:
 Run mains cables and other power lines on the smaller side of the bracket.
